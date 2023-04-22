@@ -16,6 +16,7 @@ public class TestGit {
         System.out.println("Hello Git3!!");
         System.out.println("Hello Git4!!");
         System.out.println("master-merge-test");
+        System.out.println("hot-fix-merge-test");
     }
 }
 
